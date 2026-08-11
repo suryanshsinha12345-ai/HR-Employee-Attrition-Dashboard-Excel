@@ -8,7 +8,7 @@ The project uses employee-level HR data to perform data cleaning, quality checks
 
 The final dashboard provides an executive overview of employee attrition across areas such as department, gender, overtime, job satisfaction, monthly income, distance from work, and years at the company.
 
-<img width="1078" height="494" alt="image" src="https://github.com/user-attachments/assets/c9a7a6ed-eff5-4429-97bc-c5d37edd3e4d" />
+<img width="1080" height="457" alt="image" src="https://github.com/user-attachments/assets/33f7429e-b7f2-4b67-86c9-1e1a95d49d80" />
 
 ---
 
