@@ -1,6 +1,6 @@
-# 📊 HR Employee Attrition Dashboard | Excel
+#  HR Employee Attrition Dashboard | Excel
 
-## 📌 Project Overview
+## Project Overview
 
 The **HR Employee Attrition Dashboard** is an interactive Excel-based HR analytics project focused on understanding employee attrition and identifying factors associated with employees leaving an organization.
 
@@ -10,7 +10,7 @@ The final dashboard provides an executive overview of employee attrition across 
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 Employee attrition can significantly impact recruitment costs, workforce productivity, and organizational performance.
 
@@ -29,7 +29,7 @@ The objective of this project is to analyze employee attrition and identify patt
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The project uses an HR employee dataset containing **1,471 rows and 35 columns** in the original worksheet.
 
@@ -51,7 +51,7 @@ The workbook includes a cleaned dataset and multiple analytical worksheets for d
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 The workbook includes dedicated sheets for data preparation and quality checking.
 
@@ -74,7 +74,7 @@ This helps ensure that the data used for analysis is complete and reliable.
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 ### 1. Attrition by Department
 
@@ -230,7 +230,7 @@ The dashboard includes visualizations for:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 The analysis highlights several important patterns:
 
@@ -245,7 +245,7 @@ The analysis highlights several important patterns:
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 ### Tool
 
@@ -268,7 +268,7 @@ The analysis highlights several important patterns:
 
 ---
 
-## 💡 Business Value
+## Business Value
 
 This project demonstrates how Excel can be used to convert raw HR data into a structured analytical solution.
 
@@ -287,7 +287,7 @@ These insights can support better employee retention strategies and workforce pl
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential improvements to this project include:
 
@@ -305,7 +305,7 @@ Potential improvements to this project include:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 HR-Employee-Attrition-Dashboard/
